@@ -9,7 +9,7 @@
 <h2 align="left">🤓 About Me</h2>
 <div align="left">
 
-• 🔥 I’m passionate about **Data Science, Machine Learning, Natural Language Processing, and Artificial Intelligence**
+<h3 align="center">• 🔥 I’m passionate about **Data Science, Machine Learning, Natural Language Processing, and Artificial Intelligence**</h3>
 
 • 📈 I’m currently sharpening my skills in **Data Analysis, Machine Learning, and Deep Learning**
 
