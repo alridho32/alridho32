@@ -6,8 +6,6 @@
 
 <h3 align="center">A data science enthusiast from Indonesia 🇮🇩</h3>
 
-<br/>
-
 <h2 align="left">About Me</h2>
 <div align="left">
 
