@@ -6,7 +6,7 @@
 
 <h3 align="center">I am a data science enthusiast from Indonesia 🇮🇩</h3>
 
-<h2 align="left">About Me</h2>
+<h2 align="left">About Me 🤓</h2>
 <div align="left">
 
 • 🔥 I’m passionate about **Data Science, Machine Learning, Natural Language Processing, and Artificial Intelligence**
@@ -35,7 +35,7 @@
 
 
  
-<h2 align="center">🧑‍💻 Languages-Frameworks-Tools 🧑‍💻</h2>
+<h2 align="left">Languages-Frameworks-Tools 🧑‍💻</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git,docker" />
@@ -44,22 +44,23 @@
 
 <br/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<div align="left">
+  <h2>My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alridho32/alridho32/output/github-contribution-grid-snake.svg" />
   
   <br/>
 
 
-<h2 align="center">📋 Stats 📋</h2>
+<h2 align="left">Stats 📋</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alridho32&show_icons=true&locale=en&layout=compact" alt="alridho32" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alridho32&show_icons=true&locale=en" alt="alridho32" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alridho32&" alt="alridho32" /></p>
 </div>
 
-<h2 align="center">🗒️ Quotes 🗒️</h2>
+<h2 align="left">Quotes 🗒️</h2>
 <h3 align="center">“It is a capital mistake to theorize before one has data.” — Sherlock Holmes 🕵🏻</h3>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=DC143C&size=50&center=true&vCenter=true&width=1000&height=70&duration=5000&lines=Thanks+for+visiting!+👊;+Contact+me+on+Linkedin+anytime!;+See+Ya!;" />
 </h3>
+</hr>
