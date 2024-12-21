@@ -35,7 +35,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">🧑‍💻 Languages-Frameworks-Tools 🧑‍💻</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git,docker" />
@@ -54,7 +54,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">📋 Stats 📋</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alridho32&show_icons=true&locale=en&layout=compact" alt="alridho32" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alridho32&show_icons=true&locale=en" alt="alridho32" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alridho32&" alt="alridho32" /></p>
