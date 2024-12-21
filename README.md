@@ -61,8 +61,9 @@
 </div>
 
 <br/><br/>
-
-<h3 align="center">“It is a capital mistake to theorize before one has data.” — Sherlock Holmes</h3>
+<hr/>
+<h2 align="center">🗒️ Quotes 🗒️</h2>
+<h3 align="center">“It is a capital mistake to theorize before one has data.” — Sherlock Holmes 🕵🏻</h3>
 <hr/>
 
 <h3 align="center">
