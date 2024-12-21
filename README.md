@@ -50,8 +50,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alridho32/alridho32/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
-</div>
+  <br/>
 
 <hr/>
 
