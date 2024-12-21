@@ -51,7 +51,7 @@
   <br/>
 
 
-<h2 align="left">Stats 📋</h2>
+<h2 align="left">My Stats 📋</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alridho32&show_icons=true&locale=en&layout=compact" alt="alridho32" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alridho32&show_icons=true&locale=en" alt="alridho32" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alridho32&" alt="alridho32" /></p>
@@ -59,8 +59,8 @@
 
 <h2 align="left">Quotes 🗒️</h2>
 <h3 align="center">“It is a capital mistake to theorize before one has data.” — Sherlock Holmes 🕵🏻</h3>
-</hr>
 
+<hr>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=DC143C&size=50&center=true&vCenter=true&width=1000&height=70&duration=5000&lines=Thanks+for+visiting!+👊;+Contact+me+on+Linkedin+anytime!;+See+Ya!;" />
 </h3>
