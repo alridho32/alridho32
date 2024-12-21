@@ -15,8 +15,6 @@
 
 <h3 align="left">• 💼 I am currently seeking a job in the data field. Contact me if there are any openings!</h3>
 
-<h3 align="left">• 💬 Ask me about Machine Learning, Python, SQL, NLP... or anything [here](https://github.com/alridho32/alridho32/issues)</h3>
-
 <h3 align="left">• 👨‍🎓 Fun fact I graduated in geology from the University of Indonesia</h3>
 
  </div>
