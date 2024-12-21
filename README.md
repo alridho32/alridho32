@@ -60,7 +60,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alridho32&" alt="alridho32" /></p>
 </div>
 
-<br/><br/>
 <hr/>
 <h2 align="center">🗒️ Quotes 🗒️</h2>
 <h3 align="center">“It is a capital mistake to theorize before one has data.” — Sherlock Holmes 🕵🏻</h3>
