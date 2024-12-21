@@ -10,13 +10,10 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **My Personal Growth**
- 
- 🌱 I’m currently learning **Data Science Related Topics**
-
-💬 Ask me about **Machine Learning, Python, SQL, NLP... or anything [here](https://github.com/alridho32/alridho32/issues)**
-
-⚡ Fun fact **I graduated in geology from the University of Indonesia, but later transitioned into the field of data science**
+* 🔭 I’m currently working on **My Personal Growth**
+* 🌱 I’m currently learning **Data Science Related Topics**
+* 💬 Ask me about **Machine Learning, Python, SQL, NLP... or anything [here](https://github.com/alridho32/alridho32/issues)**
+* ⚡ Fun fact **I graduated in geology from the University of Indonesia, but later transitioned into the field of data science**
 
  </div>
  
