@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alridho32.alridho32&left_color=red&right_color=green" />
 
-<!-- <h1 align="center"> -->
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fredericka+the+Great&color=DC143C&size=50&center=true&vCenter=true&width=1000&height=70&duration=5000&lines=Hi+There!+👋;+My+Name+is+Alridho;+Nice+to+Meet+You!;" />
-<!-- </h1> -->
+</h1>
 
 <h3 align="center">I am a data science enthusiast from Indonesia 🇮🇩</h3>
 
