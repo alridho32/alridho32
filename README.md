@@ -27,8 +27,8 @@
   <a href="https://www.linkedin.com/in/alridho32/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/alridho32?tab=repositories" target="_blank">
-     <img src="https://img.shields.io/badge/Repository-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://public.tableau.com/app/profile/achmed.alridho.zulkarnaen/vizzes" target="_blank">
+     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
