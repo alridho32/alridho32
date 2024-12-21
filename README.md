@@ -7,13 +7,15 @@
 <h3 align="center">A data science enthusiast from Indonesia 🇮🇩</h3>
 
 <br/>
-
+<hr/>
+<h2 align="left">About Me</h2>
+<hr/>
 <div align="left">
- 
-* 🔭 I’m currently working on **My Personal Growth**
-* 🌱 I’m currently learning **Data Science Related Topics**
+* 🔥 I’m passionate about **Data Science, Machine Learning, Natural Language Processing, and Artificial Intelligence**
+* 📈 I’m currently sharpening my skills in **Data Analysis, Machine Learning, and Deep Learning**
+* 💼 I am currently seeking a job in the data field. **Contact me if there are any openings!**
 * 💬 Ask me about **Machine Learning, Python, SQL, NLP... or anything [here](https://github.com/alridho32/alridho32/issues)**
-* ⚡ Fun fact **I graduated in geology from the University of Indonesia, but later transitioned into the field of data science**
+* 👨‍🎓 Fun fact **I graduated in geology from the University of Indonesia**
 
  </div>
  
