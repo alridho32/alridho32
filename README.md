@@ -68,7 +68,5 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=5000&lines=Thanks+for+visiting!+👊;+Contact+me+on+Linkedin+anytime!;+See+Ya!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=DC143C&size=50&center=true&vCenter=true&width=1000&height=70&duration=5000&lines=Thanks+for+visiting!+👊;+Contact+me+on+Linkedin+anytime!;+See+Ya!;" />
 </h3>
-
-<br/>
