@@ -59,8 +59,8 @@
 
 <h2 align="left">Quotes 🗒️</h2>
 <h3 align="center">“It is a capital mistake to theorize before one has data.” — Sherlock Holmes 🕵🏻</h3>
+</hr>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=DC143C&size=50&center=true&vCenter=true&width=1000&height=70&duration=5000&lines=Thanks+for+visiting!+👊;+Contact+me+on+Linkedin+anytime!;+See+Ya!;" />
 </h3>
-</hr>
