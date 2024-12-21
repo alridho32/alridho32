@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=DC143C&size=50&center=true&vCenter=true&width=1000&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Alridho;+Nice+to+Meet+You!;" />
 </h1>
 
-<h2 align="center">I am a data science enthusiast from Indonesia 🇮🇩</h2>
+<h3 align="center">I am a data science enthusiast from Indonesia 🇮🇩</h3>
+
 <h2 align="left">About Me</h2>
 <div align="left">
 
