@@ -1,3 +1,30 @@
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f4f4f4;">
+    <div class="dots">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</div>
+
+<style>
+    .dots span {
+        display: inline-block;
+        width: 10px;
+        height: 10px;
+        margin: 0 5px;
+        background-color: #0078FF;
+        border-radius: 50%;
+        animation: bounce 1.5s infinite ease-in-out;
+    }
+    .dots span:nth-child(2) { animation-delay: 0.2s; }
+    .dots span:nth-child(3) { animation-delay: 0.4s; }
+    @keyframes bounce {
+        0%, 80%, 100% { transform: scale(0); }
+        40% { transform: scale(1); }
+    }
+</style>
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alridho32.alridho32&left_color=red&right_color=green" />
 
 <h1 align="center">
