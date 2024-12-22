@@ -20,7 +20,16 @@
 • 👨‍🎓 Fun fact **I graduated in geology from the University of Indonesia**
 
  </div>
- <br>
+<h2 align="left">🌐 Socials</h2>
+
+<div align="center"> 
+  <a href="https://instagram.com/alridhozulkarnaen>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+<div align="center"> 
+  <a href="https://discord.gg/4JTwCAgF">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
+  </a>
 <div align="center"> 
   <a href="mailto:alridhowork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -29,7 +38,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://public.tableau.com/app/profile/achmed.alridho.zulkarnaen/vizzes" target="_blank">
-     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank" 
   </a>
 </div>
 
