@@ -65,7 +65,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=alridho32&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-<br/>
 
 <h2 align="left">🗒️ Quotes</h2>
 <h3 align="center">“It is a capital mistake to theorize before one has data.” — Sherlock Holmes 🕵🏻</h3>
