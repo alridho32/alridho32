@@ -66,7 +66,6 @@
 </p>
 
 <h2 align="left">🏆 GitHub Trophies</h2>
-<br/>
 
 ![](https://github-profile-trophy.vercel.app/?username=alridho32&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
