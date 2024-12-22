@@ -65,16 +65,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alridho32&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="alridho32" />
 </p>
 
-
 <h2 align="left">🏆 GitHub Trophies</h2>
 <br/>
 
 ![](https://github-profile-trophy.vercel.app/?username=alridho32&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-
 <h2 align="left">✍️ Quotes</h2>
 <blockquote>
-  <p style="font-size: 24px; font-family: 'Georgia', serif;">
+  <p style="font-size: 48px; font-family: 'Georgia', serif;">
     “It is a capital mistake to theorize before one has data.” — Sherlock Holmes 🕵🏻
   </p>
 </blockquote>
