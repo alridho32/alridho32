@@ -72,9 +72,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=alridho32&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
-<h2 align="left">🗒️ Quotes</h2>
+<h2 align="left">✍️ Quotes</h2>
 <blockquote>
-  <p>“It is a capital mistake to theorize before one has data.” — Sherlock Holmes 🕵🏻</p>
+  <p style="font-size: 24px; font-family: 'Georgia', serif;">
+    “It is a capital mistake to theorize before one has data.” — Sherlock Holmes 🕵🏻
+  </p>
 </blockquote>
 
 <hr>
