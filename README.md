@@ -73,7 +73,7 @@
 <h2 align="left">✍️ Quotes</h2>
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
   <rect width="100%" height="100%" fill="#f0f0f0"/>
-  <text x="50%" y="50%" text-anchor="middle" fill="#DC143C" font-family="Georgia, serif" font-size="24">
+  <text x="50%" y="50%" text-anchor="middle" fill="#DC143C" font-family="Georgia, serif" font-size="50">
     “It is a capital mistake to theorize before one has data.” — Sherlock Holmes 🕵🏻
   </text>
 </svg>
