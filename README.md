@@ -19,26 +19,23 @@
 
 • 👨‍🎓 Fun fact **I graduated in geology from the University of Indonesia**
 
- </div>
 <h2 align="left">🌐 Socials</h2>
 
 <div align="center"> 
-  <a href="https://instagram.com/alridhozulkarnaen>
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  <a href="https://instagram.com/alridhozulkarnaen" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-<div align="center"> 
-  <a href="https://discord.gg/4JTwCAgF">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
+  <a href="https://discord.gg/4JTwCAgF" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-<div align="center"> 
-  <a href="mailto:alridhowork@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:alridhowork@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/alridho32/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://public.tableau.com/app/profile/achmed.alridho.zulkarnaen/vizzes" target="_blank">
-     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank" 
+    <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" />
   </a>
 </div>
 
