@@ -71,11 +71,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=alridho32&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 <h2 align="left">✍️ Quotes</h2>
-<blockquote>
-  <p style="font-size: 48px; font-family: 'Georgia', serif;">
-    “It is a capital mistake to theorize before one has data.” — Sherlock Holmes 🕵🏻
-  </p>
-</blockquote>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Georgia&color=DC143C&size=24&center=true&vCenter=true&lines=%E2%80%9CIt+is+a+capital+mistake+to+theorize;before+one+has+data.%E2%80%9D+%E2%80%94+Sherlock+Holmes+%F0%9F%95%B5%EF%B8%8F" alt="Styled Dev Quote">
+</p>
 
 <hr>
 <h3 align="center">
