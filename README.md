@@ -73,7 +73,9 @@
 
 
 <h2 align="left">🗒️ Quotes</h2>
-<h3 align="center">“It is a capital mistake to theorize before one has data.” — Sherlock Holmes 🕵🏻</h3>
+<blockquote>
+  <p>“It is a capital mistake to theorize before one has data.” — Sherlock Holmes 🕵🏻</p>
+</blockquote>
 
 <hr>
 <h3 align="center">
