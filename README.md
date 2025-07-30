@@ -13,7 +13,7 @@
 
 • 📈 I’m currently sharpening my skills in **Data Analysis, Machine Learning, and Deep Learning**
 
-• 💼 I am currently seeking a job in the data field. **Contact me if there are any openings!**
+• 💼 I am currently currently working for PT.Indo Koala Remitance as a. **Data Analyst!**
 
 • 💬 Ask me about **Machine Learning, Python, SQL, NLP... or anything [here](https://github.com/alridho32/alridho32/issues)**
 
